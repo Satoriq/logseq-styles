@@ -1,7 +1,7 @@
 # Logseq styles
 
-![Logseq styles example](./1.png)
-![Logseq styles example 2](./2.png)
+![Logseq styles example](./11.png)
+![Logseq styles example 2](./22.png)
 
 Custom styles for Logseq.
 
